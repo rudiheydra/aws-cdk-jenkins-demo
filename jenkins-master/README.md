@@ -1,4 +1,8 @@
-# jenkins-master with CDK
+
+
+
+
+# jenkins-master with CDK by [Tom Gregory](https://tomgregory.com/deploying-jenkins-into-aws-ecs-using-cdk/)
 
 Sample Jenkins implementation in CDK, including:
 
@@ -37,3 +41,4 @@ Then run this command:
  * `cdk deploy`      deploy this stack to your default AWS account/region
  * `cdk diff`        compare deployed stack with current state
  * `cdk synth`       emits the synthesized CloudFormation template
+ * `cdk destroy`     deletes this stack    
