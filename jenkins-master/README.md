@@ -5,6 +5,9 @@
 
 ![Capture3](https://user-images.githubusercontent.com/53549619/180184420-f2dd6ae3-d750-49e9-ba72-f784e71783bd.PNG)
 
+![Capture4](https://user-images.githubusercontent.com/53549619/180187251-ad69057e-266a-4489-b1f3-63348c5dff0f.PNG)
+
+
 # jenkins-master with CDK by [Tom Gregory](https://tomgregory.com/deploying-jenkins-into-aws-ecs-using-cdk/)
 
 Sample Jenkins implementation in CDK, including:
