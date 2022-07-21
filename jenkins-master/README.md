@@ -1,6 +1,9 @@
 
+![Capture](https://user-images.githubusercontent.com/53549619/180184367-29832c91-208c-45b6-b499-6e65668a8956.PNG)
 
+![Capture2](https://user-images.githubusercontent.com/53549619/180184390-06217e43-dd56-4fc2-b91b-1e4338dadb74.PNG)
 
+![Capture3](https://user-images.githubusercontent.com/53549619/180184420-f2dd6ae3-d750-49e9-ba72-f784e71783bd.PNG)
 
 # jenkins-master with CDK by [Tom Gregory](https://tomgregory.com/deploying-jenkins-into-aws-ecs-using-cdk/)
 
